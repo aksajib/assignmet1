@@ -1,0 +1,18 @@
+All the tags those taugth in class 4 are as follows tag list
+
+1 !doctype html
+2 style 
+3 id
+4 color property 
+5 background property
+6 inline css
+7 internal css
+8 font family
+9 border
+10 div
+11 width property
+12 height property
+13 position absolute
+14 top
+15 display block
+16 left

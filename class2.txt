@@ -1,0 +1,10 @@
+All the tags taught in class 2 as follows tag list
+
+1 br
+2 ul
+3 li
+4 &nbsp;
+5 hr
+6 table
+7 tr
+8 td
