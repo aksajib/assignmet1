@@ -1,0 +1,15 @@
+ All the tags taught in class 1 as follows
+
+1 html
+2 head
+3 title
+4 body
+5 h1
+6 h2
+7 h3
+8 h4
+9 h5
+10 h6
+11 u
+12 i
+13 b
